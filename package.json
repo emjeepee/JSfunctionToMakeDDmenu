@@ -1,0 +1,14 @@
+{
+  "name": "ddmenu",
+  "version": "1.0.0",
+  "description": "A javascript function that creates a dropdown menu for you",
+  "main": "README.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukund Pandit <mukund.pandit@virginmedia.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.9.0"
+  }
+}
